@@ -41,8 +41,11 @@ Replace `Your_Provided_API_Endpoint_URL` with the actual URL and `YOUR_PERSONAL_
 # Plans
 
 **1M Views Daily** : 10€/Day, 280€/Month or less
+
 **3M Views Daily** : 20€/Day, 330€/Month or less
+
 **5M Views Daily** : 25€/Day, 360€/Month or less
+
 **10M Views Daily** : 40€/Day, 450€/Month or less
 
 Can do even more cheaper and custom plans if you contact me,
