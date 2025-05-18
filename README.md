@@ -39,7 +39,7 @@ All requests to our service must be made using the `POST` HTTP method to your pr
 Replace `Your_Provided_API_Endpoint_URL` with the actual URL and `YOUR_PERSONAL_SECRET_KEY` with the key you received.
 
 # Plans
-
+*these prices are not final, they will change*
 **1M Views Daily** : 10€/Day, 280€/Month or less
 
 **3M Views Daily** : 20€/Day, 330€/Month or less
